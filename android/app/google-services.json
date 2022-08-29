@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "1034010566623",
+    "project_id": "fashion-b67f8",
+    "storage_bucket": "fashion-b67f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034010566623:android:b4b99702684aab2c8c2e6a",
+        "android_client_info": {
+          "package_name": "com.mohamedwagdy4153.admin_side_fashop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034010566623-l60ms677lt6fdkntnumfg9ojb5kbs8l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamedwagdy4153.admin_side_fashop",
+            "certificate_hash": "59083a58cc25f31d21b972d34d09d2df5dc050e8"
+          }
+        },
+        {
+          "client_id": "1034010566623-4ek5gfoca9g3snjdutjbvc8d0kp9ltib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPoQdvVioRmLF196DDtH6oZZ17H4fSaSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034010566623-4ek5gfoca9g3snjdutjbvc8d0kp9ltib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034010566623:android:1728c3483cab70bb8c2e6a",
+        "android_client_info": {
+          "package_name": "com.mohamedwagdy4153.fashop_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034010566623-am74fg7888tk9bpc2c44f9hnvfr9nh1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamedwagdy4153.fashop_ecommerce",
+            "certificate_hash": "59083a58cc25f31d21b972d34d09d2df5dc050e8"
+          }
+        },
+        {
+          "client_id": "1034010566623-4ek5gfoca9g3snjdutjbvc8d0kp9ltib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPoQdvVioRmLF196DDtH6oZZ17H4fSaSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034010566623-4ek5gfoca9g3snjdutjbvc8d0kp9ltib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
